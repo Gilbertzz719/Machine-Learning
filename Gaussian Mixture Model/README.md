@@ -1,5 +1,5 @@
 # Gaussian Mixture Model Example
-This is a GMM pratice of my pattern analysis course
+This is a GMM pratice of my pattern recognition course.
 
 ### Question
 Select a Gaussian Mixture Model as the true probability density function for 2-dimensional real-valued data synthesis. This GMM will have 4 components with different mean vectors, different covariance matrices, and different probability for each Gaussian to be selected as the generator for each sample. Specify the true GMM that generates data.
